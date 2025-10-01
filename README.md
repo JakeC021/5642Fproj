@@ -23,8 +23,8 @@ This project aims to develop and evaluate deep learning models for post-flood sc
 
 **Reference**
 
-1. [Maryam Rahnemoonfar; Tashnim Chowdhury; Argho Sarkar; Debvrat Varshney; Masoud Yari; Robin Roberson Murphy, "FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding"](https://ieeexplore.ieee.org/document/9460988)
+1. ["FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding"](https://ieeexplore.ieee.org/document/9460988), Maryam Rahnemoonfar; Tashnim Chowdhury; Argho Sarkar; Debvrat Varshney; Masoud Yari; Robin Roberson Murphy
 
-2. [Carole H Sudre, Wenqi Li, Tom Vercauteren, Sébastien Ourselin, M. Jorge Cardoso, "Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations"](https://arxiv.org/abs/1707.03237)
+2. ["Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations"](https://arxiv.org/abs/1707.03237), Carole H Sudre, Wenqi Li, Tom Vercauteren, Sébastien Ourselin, M. Jorge Cardoso
 
-3. [Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam, "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"](https://arxiv.org/abs/1802.02611)
+3. ["Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation"](https://arxiv.org/abs/1802.02611), Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, Hartwig Adam
